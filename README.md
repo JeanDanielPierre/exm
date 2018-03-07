@@ -1,2 +1,2 @@
-# exm
-Exam Manager
+Exam Manager [eXm]
+systeme de gestion d'examen en ligne
